@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="5" passed="5">
+  <reporter-output>
+  </reporter-output>
+  <suite name="InsureonProject" duration-ms="27236" started-at="2017-02-09T23:25:01Z" finished-at="2017-02-09T23:25:28Z">
+    <groups>
+    </groups>
+    <test name="Navigation" duration-ms="27236" started-at="2017-02-09T23:25:01Z" finished-at="2017-02-09T23:25:28Z">
+      <class name="com.insureon.interview.tests.PF_TestInsureonHomePage">
+        <test-method status="PASS" signature="test_Home_Page_Appear_Correct()[pri:0, instance:com.insureon.interview.tests.PF_TestInsureonHomePage@2f7a2457]" name="test_Home_Page_Appear_Correct" duration-ms="84" started-at="2017-02-09T17:25:26Z" finished-at="2017-02-09T17:25:26Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test_Home_Page_Appear_Correct -->
+      </class> <!-- com.insureon.interview.tests.PF_TestInsureonHomePage -->
+      <class name="com.insureon.interview.tests.TestInsureonHomePage">
+        <test-method status="PASS" signature="test_Home_Page_Appear_Correct()[pri:0, instance:com.insureon.interview.tests.TestInsureonHomePage@566776ad]" name="test_Home_Page_Appear_Correct" duration-ms="773" started-at="2017-02-09T17:25:26Z" finished-at="2017-02-09T17:25:27Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test_Home_Page_Appear_Correct -->
+      </class> <!-- com.insureon.interview.tests.TestInsureonHomePage -->
+      <class name="com.insureon.interview.tests.TestInsureonCompanyHistory">
+        <test-method status="PASS" signature="test_Navigation_url()[pri:0, instance:com.insureon.interview.tests.TestInsureonCompanyHistory@6108b2d7]" name="test_Navigation_url" duration-ms="36" started-at="2017-02-09T17:25:27Z" finished-at="2017-02-09T17:25:27Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test_Navigation_url -->
+        <test-method status="PASS" signature="test_navigation_title()[pri:0, instance:com.insureon.interview.tests.TestInsureonCompanyHistory@6108b2d7]" name="test_navigation_title" duration-ms="17" started-at="2017-02-09T17:25:27Z" finished-at="2017-02-09T17:25:27Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test_navigation_title -->
+      </class> <!-- com.insureon.interview.tests.TestInsureonCompanyHistory -->
+      <class name="com.insureon.interview.tests.PF_TestInsureonCompanyHistory">
+        <test-method status="PASS" signature="setup()[pri:0, instance:com.insureon.interview.tests.PF_TestInsureonCompanyHistory@edf4efb]" name="setup" is-config="true" duration-ms="7089" started-at="2017-02-09T17:25:01Z" finished-at="2017-02-09T17:25:08Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="setup()[pri:0, instance:com.insureon.interview.tests.PF_TestInsureonHomePage@2f7a2457]" name="setup" is-config="true" duration-ms="5339" started-at="2017-02-09T17:25:08Z" finished-at="2017-02-09T17:25:13Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="setup()[pri:0, instance:com.insureon.interview.tests.TestInsureonCompanyHistory@6108b2d7]" name="setup" is-config="true" duration-ms="6642" started-at="2017-02-09T17:25:13Z" finished-at="2017-02-09T17:25:20Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="setup()[pri:0, instance:com.insureon.interview.tests.TestInsureonHomePage@566776ad]" name="setup" is-config="true" duration-ms="6228" started-at="2017-02-09T17:25:20Z" finished-at="2017-02-09T17:25:26Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="test_Navigation()[pri:0, instance:com.insureon.interview.tests.PF_TestInsureonCompanyHistory@edf4efb]" name="test_Navigation" duration-ms="76" started-at="2017-02-09T17:25:26Z" finished-at="2017-02-09T17:25:26Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test_Navigation -->
+        <test-method status="PASS" signature="browser_close()[pri:0, instance:com.insureon.interview.tests.PF_TestInsureonCompanyHistory@edf4efb]" name="browser_close" is-config="true" duration-ms="351" started-at="2017-02-09T17:25:27Z" finished-at="2017-02-09T17:25:27Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- browser_close -->
+        <test-method status="PASS" signature="browser_close()[pri:0, instance:com.insureon.interview.tests.PF_TestInsureonHomePage@2f7a2457]" name="browser_close" is-config="true" duration-ms="185" started-at="2017-02-09T17:25:27Z" finished-at="2017-02-09T17:25:28Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- browser_close -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.insureon.interview.tests.TestInsureonCompanyHistory@6108b2d7]" name="tearDown" is-config="true" duration-ms="185" started-at="2017-02-09T17:25:28Z" finished-at="2017-02-09T17:25:28Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="browser_close()[pri:0, instance:com.insureon.interview.tests.TestInsureonHomePage@566776ad]" name="browser_close" is-config="true" duration-ms="171" started-at="2017-02-09T17:25:28Z" finished-at="2017-02-09T17:25:28Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- browser_close -->
+      </class> <!-- com.insureon.interview.tests.PF_TestInsureonCompanyHistory -->
+    </test> <!-- Navigation -->
+  </suite> <!-- InsureonProject -->
+</testng-results>

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="InsureonProject">
+  <test name="Navigation">
+  
+    <classes>
+      <class name="com.insureon.interview.tests.PF_TestInsureonCompanyHistory"/>
+      <class name="com.insureon.interview.tests.PF_TestInsureonHomePage"/>
+      <class name="com.insureon.interview.tests.TestInsureonHomePage"/>
+      <class name="com.insureon.interview.tests.TestInsureonCompanyHistory"/>
+    </classes>
+  </test> <!-- Navigation -->
+</suite> <!-- InsureonProject -->
